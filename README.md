@@ -1,5 +1,5 @@
 # Microsoft-engage-2022
-A content based movie recommendation system  using cosine similarity which recommends movies on the basis of which user likes
+A content based movie recommendation system  using cosine similarity which recommends movies on the basis of  user likes
 
 # About the Project
 MovieMetrix is a content based movie recommendation system this filtration strategy is based on the data provided about the items. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity is computed from the data we have about the items as well as the user’s past preferences.
